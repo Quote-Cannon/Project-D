@@ -1,0 +1,9 @@
+Base path: 'H:/Unity/2020.3.6f1/Editor/Data', plugins path 'H:/Unity/2020.3.6f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: disassembleShader
+ name=Unitycoder/gradientBarUnlit platform=d3d11 type=15 mask=6 insize=626 outsize=1298 ok=1
+
+Cmd: disassembleShader
+ name=Unitycoder/gradientBarUnlit platform=d3d11 type=17 mask=6 insize=650 outsize=1210 ok=1
+

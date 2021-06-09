@@ -1,0 +1,860 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'nl' Physical Memory: 16065 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+H:\Unity\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+H:/Unityprojects/Project/Goerree Project D ver 5 (TestUpgrade)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56245
+Successfully changed project path to: H:/Unityprojects/Project/Goerree Project D ver 5 (TestUpgrade)
+H:/Unityprojects/Project/Goerree Project D ver 5 (TestUpgrade)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 30.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path H:/Unity/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path H:/Unityprojects/Project/Goerree Project D ver 5 (TestUpgrade)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6611
+Initialize mono
+Mono path[0] = 'H:/Unity/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'H:/Unity/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'H:/Unity/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56440
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: H:/Unity/2020.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: H:/Unity/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002244 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 29.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.447 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000903 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.888 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1690 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.0 MB.
+System memory in use after: 104.0 MB.
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 2155.
+Total: 2.597200 ms (FindLiveObjects: 0.233200 ms CreateObjectMapping: 0.047500 ms MarkObjects: 2.007300 ms  DeleteObjects: 0.308200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(f5f4cd749a7502c46b0e3d8f718fbece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(f5f4cd749a7502c46b0e3d8f718fbece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ef294a99f8b3c078140238f7bcd1587') in 0.141522 seconds
+  Import took 0.144867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1001.053714 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(acbf2b165e46b2a428d2b72d62ba48df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(acbf2b165e46b2a428d2b72d62ba48df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b147dd95aa0a6c15b7663ee157f1ecd8') in 0.010652 seconds
+  Import took 0.014221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005474 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(acbf2b165e46b2a428d2b72d62ba48df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(acbf2b165e46b2a428d2b72d62ba48df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b147dd95aa0a6c15b7663ee157f1ecd8') in 0.008852 seconds
+  Import took 0.011847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1178.686310 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(f5f4cd749a7502c46b0e3d8f718fbece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(f5f4cd749a7502c46b0e3d8f718fbece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e8e08fdb7b3f261584cc641045af181') in 0.036354 seconds
+  Import took 0.039979 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000912 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.793 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1640 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.6 MB.
+System memory in use after: 99.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2160.
+Total: 2.623900 ms (FindLiveObjects: 0.225000 ms CreateObjectMapping: 0.040800 ms MarkObjects: 2.134000 ms  DeleteObjects: 0.222700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000896 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.798 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1640 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.6 MB.
+System memory in use after: 99.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2163.
+Total: 2.712200 ms (FindLiveObjects: 0.223400 ms CreateObjectMapping: 0.041700 ms MarkObjects: 2.234900 ms  DeleteObjects: 0.210700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000877 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.764 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1640 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.6 MB.
+System memory in use after: 99.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2166.
+Total: 2.465900 ms (FindLiveObjects: 0.241600 ms CreateObjectMapping: 0.071600 ms MarkObjects: 1.954900 ms  DeleteObjects: 0.195900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000919 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.769 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1640 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.6 MB.
+System memory in use after: 99.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2169.
+Total: 2.514900 ms (FindLiveObjects: 0.221200 ms CreateObjectMapping: 0.041700 ms MarkObjects: 2.042300 ms  DeleteObjects: 0.208800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000986 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.848 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1640 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.7 MB.
+System memory in use after: 99.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2172.
+Total: 2.547500 ms (FindLiveObjects: 0.224400 ms CreateObjectMapping: 0.047700 ms MarkObjects: 2.062400 ms  DeleteObjects: 0.211400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1109.318853 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd
+  artifactKey: Guid(bb8dfcd263ad4eb383a33d74a720be6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd using Guid(bb8dfcd263ad4eb383a33d74a720be6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4df5305d63c528b9f78bf03c9621044') in 0.096356 seconds
+  Import took 0.117187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Round Button Hover.png
+  artifactKey: Guid(99dd13fa6290b8b4b8ea2150a62ca8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Round Button Hover.png using Guid(99dd13fa6290b8b4b8ea2150a62ca8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b081d6d6a977d6cc1452f4f8eb587f5') in 0.092552 seconds
+  Import took 0.113260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Quest.png
+  artifactKey: Guid(c87a5cb86fb145847954e7814f054d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Quest.png using Guid(c87a5cb86fb145847954e7814f054d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c6be532927be63927d191fddfdcc39') in 0.035287 seconds
+  Import took 0.065454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Round Button.png
+  artifactKey: Guid(4445d7cc599947947aa2fff6a4f8900c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Round Button.png using Guid(4445d7cc599947947aa2fff6a4f8900c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e98a6d00166931285bc9d9b2b46b287a') in 0.034928 seconds
+  Import took 0.053521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Right Arrow.png
+  artifactKey: Guid(b4d3b80bf37dc854e91076c416ee979d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Right Arrow.png using Guid(b4d3b80bf37dc854e91076c416ee979d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dba7bae4053e653a10102fe26e7fb471') in 0.028063 seconds
+  Import took 0.047694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Devion Games/Module Manager/Editor/Resources/ModuleIcon.png
+  artifactKey: Guid(d8399d9811e2bde4eacd1dc4c2eee86d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Module Manager/Editor/Resources/ModuleIcon.png using Guid(d8399d9811e2bde4eacd1dc4c2eee86d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa5db50fc30e1c46ccdfc9212ec7792e') in 0.012861 seconds
+  Import took 0.016498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Right Pane Dark.png
+  artifactKey: Guid(5d2a92c279e7e5240a616d95345be021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Right Pane Dark.png using Guid(5d2a92c279e7e5240a616d95345be021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '408d78701f43134e5d685a475ddc2afc') in 0.031871 seconds
+  Import took 0.034983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Right Pane.png
+  artifactKey: Guid(b6e4131946221a44b8b1627574d76991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Right Pane.png using Guid(b6e4131946221a44b8b1627574d76991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb6a2611e5ffd06fb6d3ae692798329') in 0.028427 seconds
+  Import took 0.046285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Round Button Active.png
+  artifactKey: Guid(8f2c1926504accf49b86f75f3e3d4776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Round Button Active.png using Guid(8f2c1926504accf49b86f75f3e3d4776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0b49d44766eaec2aefa3943beadaac8') in 0.011365 seconds
+  Import took 0.025187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.770823 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg
+  artifactKey: Guid(602cb87b6a29443b8636370ea0751574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg using Guid(602cb87b6a29443b8636370ea0751574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcd41fa34824e79afdf91b335fccfe1f') in 0.031229 seconds
+  Import took 0.038169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg
+  artifactKey: Guid(8878a782f4334ecbbcf683b3ac780966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg using Guid(8878a782f4334ecbbcf683b3ac780966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '679e51ef62fa089fcdbe959919ad8ce3') in 0.051377 seconds
+  Import took 0.068196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg
+  artifactKey: Guid(602cb87b6a29443b8636370ea0751574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg using Guid(602cb87b6a29443b8636370ea0751574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcd41fa34824e79afdf91b335fccfe1f') in 0.010690 seconds
+  Import took 0.013686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.358523 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Left Pane.png
+  artifactKey: Guid(af40ae9f20fade243b48c08852c4d1bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Left Pane.png using Guid(af40ae9f20fade243b48c08852c4d1bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d95c5e557e3c3b65da9e1de502f0af') in 0.013641 seconds
+  Import took 0.032049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Left Pane Dark.png
+  artifactKey: Guid(e7ca8c69238500f4e9c75f83afc429b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Left Pane Dark.png using Guid(e7ca8c69238500f4e9c75f83afc429b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff9b4b9e8c3eb0a8f3202881130389fb') in 0.011242 seconds
+  Import took 0.023974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033380 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg
+  artifactKey: Guid(2ce5c55e85304b819a1826ecbc839aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg using Guid(2ce5c55e85304b819a1826ecbc839aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a1fe7fd3bc2518b8a0376d801c69c46') in 0.049341 seconds
+  Import took 0.052958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg
+  artifactKey: Guid(03d0538de6e24c0f819bfc9ce084dfa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg using Guid(03d0538de6e24c0f819bfc9ce084dfa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6574b41833d857ad367fa982d58f9081') in 0.020789 seconds
+  Import took 0.040896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg
+  artifactKey: Guid(6eb184de103d4b3f812b38561065192f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg using Guid(6eb184de103d4b3f812b38561065192f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f5dc954d3e5e7c5aff7d0d6ccedb543') in 0.016703 seconds
+  Import took 0.036686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg
+  artifactKey: Guid(2ce5c55e85304b819a1826ecbc839aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg using Guid(2ce5c55e85304b819a1826ecbc839aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a1fe7fd3bc2518b8a0376d801c69c46') in 0.008454 seconds
+  Import took 0.011286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Item.png
+  artifactKey: Guid(ce3b89095f2926b4b9ff7d02a11217b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Item.png using Guid(ce3b89095f2926b4b9ff7d02a11217b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74df71f64a5805de4181753d30cd3392') in 0.028260 seconds
+  Import took 0.044911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073451 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg
+  artifactKey: Guid(1cdc5b506b1a4a33a53c30669ced1f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg using Guid(1cdc5b506b1a4a33a53c30669ced1f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52df423e889a21724bd05e46c06f8ddb') in 0.029410 seconds
+  Import took 0.051389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024692 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg
+  artifactKey: Guid(283f897e4925411ebbaa758b4cb13fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg using Guid(283f897e4925411ebbaa758b4cb13fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f4586ff98242b57105624a4a8815c74') in 0.034122 seconds
+  Import took 0.062359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg
+  artifactKey: Guid(85ac55597b97403c82fc6601a93cf241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg using Guid(85ac55597b97403c82fc6601a93cf241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9878aed1bc5f3538e53c793e65a66792') in 0.044660 seconds
+  Import took 0.056035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.103756 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc57cc490cb881eb7034f7bd6c6176a') in 0.022782 seconds
+  Import took 0.025758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001806 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc57cc490cb881eb7034f7bd6c6176a') in 0.019505 seconds
+  Import took 0.022402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007199 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Component.png
+  artifactKey: Guid(1947421661d49864b82d0c8f4d5493f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Component.png using Guid(1947421661d49864b82d0c8f4d5493f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3931b7b6c65ae17030fabf83224129d0') in 0.010799 seconds
+  Import took 0.020828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png
+  artifactKey: Guid(a0fc465d6cf04254a2938578735e2383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png using Guid(a0fc465d6cf04254a2938578735e2383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81e87a814c0f7c86ec9af753ef61712d') in 0.049520 seconds
+  Import took 0.063443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd
+  artifactKey: Guid(fd09957580ac4326916010f1f260975b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd using Guid(fd09957580ac4326916010f1f260975b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '699aadb7e8de8366d9fd393a2a31d002') in 0.033992 seconds
+  Import took 0.037546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Condition Item.png
+  artifactKey: Guid(de98b7565a9ede54f80c7db4cc4be82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Condition Item.png using Guid(de98b7565a9ede54f80c7db4cc4be82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '611512443b41ea86240101881e21189d') in 0.010579 seconds
+  Import took 0.013659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133740 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg
+  artifactKey: Guid(f88677df267a41d6be1e7a6133e7d227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg using Guid(f88677df267a41d6be1e7a6133e7d227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44818a2f2511fea8771d46768c4aafff') in 0.025599 seconds
+  Import took 0.028635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Button/Button Hover.png
+  artifactKey: Guid(6ef65ef3155327945b6b44a3dd54e4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Button/Button Hover.png using Guid(6ef65ef3155327945b6b44a3dd54e4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6f6319a3e52e1829b96041745e31f39') in 0.009585 seconds
+  Import took 0.022622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Center Pane Dark.png
+  artifactKey: Guid(50f6cc38ba9737b4da7daeedc5123af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Center Pane Dark.png using Guid(50f6cc38ba9737b4da7daeedc5123af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4fc085aed3b6f5c975350783623a79b') in 0.009359 seconds
+  Import took 0.023257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Center Pane.png
+  artifactKey: Guid(104b55b6bcb94f540832ba96329170bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Center Pane.png using Guid(104b55b6bcb94f540832ba96329170bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12fdc0b9f34e6f96ad044d67fd6e5db0') in 0.009850 seconds
+  Import took 0.026120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Button/Button Active.png
+  artifactKey: Guid(c7317445ffe686d4d9676fbe328085dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Button/Button Active.png using Guid(c7317445ffe686d4d9676fbe328085dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7ca39dac668c04c19ef953a75f1d21c') in 0.026016 seconds
+  Import took 0.029292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Button/Button Normal.png
+  artifactKey: Guid(c369bf200be84a34ab4809a7706b7bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Button/Button Normal.png using Guid(c369bf200be84a34ab4809a7706b7bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48ee7a4ff9db73736ad6fc6aae807890') in 0.037455 seconds
+  Import took 0.063169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Button/Button Active.png
+  artifactKey: Guid(c7317445ffe686d4d9676fbe328085dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Devion Games/Utilities/Scripts/Editor/Resources/Editor Skin/Button/Button Active.png using Guid(c7317445ffe686d4d9676fbe328085dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7ca39dac668c04c19ef953a75f1d21c') in 0.008998 seconds
+  Import took 0.011811 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001050 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.783 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1640 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.7 MB.
+System memory in use after: 102.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2184.
+Total: 2.410300 ms (FindLiveObjects: 0.210900 ms CreateObjectMapping: 0.057400 ms MarkObjects: 1.940900 ms  DeleteObjects: 0.199900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001235 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.935 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1640 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.7 MB.
+System memory in use after: 102.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2187.
+Total: 2.912100 ms (FindLiveObjects: 0.235800 ms CreateObjectMapping: 0.042200 ms MarkObjects: 2.399100 ms  DeleteObjects: 0.232700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 893.750894 seconds.
+  path: Assets/keyboardlayout.png
+  artifactKey: Guid(1b6fa0904b127eb4bba592cb46960276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/keyboardlayout.png using Guid(1b6fa0904b127eb4bba592cb46960276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '542fb4e8dedcac86e3b35aa7bc440234') in 0.033337 seconds
+  Import took 0.037776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.884388 seconds.
+  path: Assets/keyboardlayout.png
+  artifactKey: Guid(1b6fa0904b127eb4bba592cb46960276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/keyboardlayout.png using Guid(1b6fa0904b127eb4bba592cb46960276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a53eb44bae1d5e00609b7e2675895e9') in 0.029655 seconds
+  Import took 0.038856 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000995 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.948 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1640 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.8 MB.
+System memory in use after: 102.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2194.
+Total: 2.671900 ms (FindLiveObjects: 0.241100 ms CreateObjectMapping: 0.040900 ms MarkObjects: 2.171200 ms  DeleteObjects: 0.217200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 286.257422 seconds.
+  path: Assets/UI
+  artifactKey: Guid(c3f0fd6f287bec449a47c475269f3db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI using Guid(c3f0fd6f287bec449a47c475269f3db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '489e6fef63ff1f3cd814fa362b74469e') in 0.009195 seconds
+  Import took 0.012561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.667699 seconds.
+  path: Assets/GradientHeight.mat
+  artifactKey: Guid(25c1c7a4c511eed458fdfcbbcf507205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GradientHeight.mat using Guid(25c1c7a4c511eed458fdfcbbcf507205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce564141a1a890ea6c9ac6b05f19a34a') in 0.074106 seconds
+  Import took 0.091633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000579 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(f5f4cd749a7502c46b0e3d8f718fbece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(f5f4cd749a7502c46b0e3d8f718fbece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a66ee2e4668d45494229112676eee04b') in 0.038226 seconds
+  Import took 0.042504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 452.493933 seconds.
+  path: Assets/UI/keyboardlayout.png
+  artifactKey: Guid(1b6fa0904b127eb4bba592cb46960276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/keyboardlayout.png using Guid(1b6fa0904b127eb4bba592cb46960276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dae500ffcc177f1e1785fe3b7efb452') in 0.021787 seconds
+  Import took 0.045685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.811332 seconds.
+  path: Assets/UI/keyboardlayout.png
+  artifactKey: Guid(1b6fa0904b127eb4bba592cb46960276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/keyboardlayout.png using Guid(1b6fa0904b127eb4bba592cb46960276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c977794748a089167d34f04a242e0585') in 0.021712 seconds
+  Import took 0.032737 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000950 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.870 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1640 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.1 MB.
+System memory in use after: 103.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2236.
+Total: 2.789700 ms (FindLiveObjects: 0.237600 ms CreateObjectMapping: 0.044700 ms MarkObjects: 2.283900 ms  DeleteObjects: 0.221900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000989 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.810 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1640 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.1 MB.
+System memory in use after: 103.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2239.
+Total: 2.748900 ms (FindLiveObjects: 0.245900 ms CreateObjectMapping: 0.048800 ms MarkObjects: 2.218800 ms  DeleteObjects: 0.233500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000835 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.778 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1640 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.1 MB.
+System memory in use after: 103.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2242.
+Total: 2.833600 ms (FindLiveObjects: 0.225300 ms CreateObjectMapping: 0.053900 ms MarkObjects: 2.299500 ms  DeleteObjects: 0.253200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000976 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.765 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1640 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.1 MB.
+System memory in use after: 103.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2245.
+Total: 2.506600 ms (FindLiveObjects: 0.223300 ms CreateObjectMapping: 0.049400 ms MarkObjects: 2.015400 ms  DeleteObjects: 0.217200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001002 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.858 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1640 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.1 MB.
+System memory in use after: 103.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2248.
+Total: 2.685200 ms (FindLiveObjects: 0.232600 ms CreateObjectMapping: 0.043200 ms MarkObjects: 2.191300 ms  DeleteObjects: 0.216700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000915 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[H:/Unityprojects/Project/Goerree Project D ver 3 (moving water)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.804 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1640 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.1 MB.
+System memory in use after: 103.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2251.
+Total: 3.387200 ms (FindLiveObjects: 0.244000 ms CreateObjectMapping: 0.050700 ms MarkObjects: 2.871800 ms  DeleteObjects: 0.218800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
